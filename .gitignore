@@ -1,0 +1,30 @@
+# CMake build directories and files
+/build/
+/CMakeCache.txt
+/CMakeFiles/
+/cmake_install.cmake
+/Makefile
+
+# Compiler-generated binaries
+*.exe
+*.out
+*.o
+*.obj
+*.a
+*.lib
+*.so
+*.dll
+*.dylib
+
+# MinGW-specific
+*.stackdump
+
+# Visual Studio Code configuration
+.vscode/
+
+# Logs and temporary files
+*.log
+*.tmp
+*.swp
+*.swo
+*.DS_Store  # macOS metadata files
